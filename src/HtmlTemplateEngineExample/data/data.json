@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "Apple",
+      "price": 329,
+      "description": "flat-out fun"
+    },
+    {
+      "name": "Orange",
+      "price": 25,
+      "description": "colorful"
+    },
+    {
+      "name": "Banana",
+      "price": 99,
+      "description": "peel it"
+    }
+  ]
+}
